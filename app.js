@@ -129,3 +129,7 @@ function livedQuestion(){
 
   alert('You got ' + correctanswers + ' out of 7 correct answers!');
 }
+
+niceQustion();
+mealQuestion();
+livedQuestion();
